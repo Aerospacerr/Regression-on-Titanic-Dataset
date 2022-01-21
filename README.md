@@ -1,7 +1,7 @@
 # Titanic - Machine Learning from Disaster
 
 <p align="center">
-	<img src="  " />
+	<img src="https://i0.wp.com/khosann.com/wp-content/uploads/2017/03/titanic-titanik-ballard-leonardo_dicaprio-james_cameron.jpg" />
 
 </p>
 
